@@ -1,0 +1,23 @@
+{
+  "name": "BenchmarkCJ-A",
+  "version": "1.0.0",
+  "description": "Part A of D-PAC Benchmark selection algorithm. Contains nearest cutting point, maximum Fischer Information and ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SanVerhavert/BenchmarkCJ-A.git"
+  },
+  "author": "San Verhavert",
+  "license": "GPL 3",
+  "bugs": {
+    "url": "https://github.com/SanVerhavert/BenchmarkCJ-A/issues"
+  },
+  "homepage": "https://github.com/SanVerhavert/BenchmarkCJ-A",
+  "dependencies": {
+    "lodash": "^3.5.0",
+    "math": "0.0.3"
+  }
+}
